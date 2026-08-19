@@ -52,7 +52,7 @@ The project aims to:
 - [x] Character comparison
 - [x] Community research
 - [x] Character selection
-- [ ] Lore research
+- [x] Lore research
 - [ ] Contextual research
 
 ### Concept
