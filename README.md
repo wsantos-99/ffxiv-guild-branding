@@ -53,7 +53,7 @@ The project aims to:
 - [x] Community research
 - [x] Character selection
 - [x] Lore research
-- [ ] Contextual research
+- [x] Contextual research
 
 ### Concept
 - [ ] Core concept
