@@ -57,7 +57,7 @@ The project aims to:
 
 ### Concept
 - [x] Core concept
-- [ ] Creative direction
+- [x] Creative direction
 - [ ] Art direction
 - [ ] Concept development
 - [ ] Moodboard
