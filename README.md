@@ -56,7 +56,7 @@ The project aims to:
 - [x] Contextual research
 
 ### Concept
-- [ ] Core concept
+- [x] Core concept
 - [ ] Creative direction
 - [ ] Art direction
 - [ ] Concept development
